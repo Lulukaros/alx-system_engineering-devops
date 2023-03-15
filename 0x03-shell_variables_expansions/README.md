@@ -19,3 +19,7 @@
 9-divide_and_rule: // that performs an arithmetic operating using two global variables
 
 10-love_exponent_breath: // that prints a number to the power of another number, both of which are global variables
+
+11-binary_to_decimal: // that converts from binary to decimal
+
+
