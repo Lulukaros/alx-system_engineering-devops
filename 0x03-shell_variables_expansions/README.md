@@ -14,4 +14,8 @@
 
 7-create_global_variable: // that creates a global variable and gives it a value
 
+8-true_knowledge: // that performs an arithmetic operation with a global variable
+
+9-divide_and_rule: // that performs an arithmetic operating using two global variables
+
 
