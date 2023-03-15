@@ -25,3 +25,5 @@
 12-combinations: // that prints the combination of all possible combinations of two letters
 
 13-print_float: // that print a decimal value of a number
+
+100-decimal_to_hexadecimal: // that converts from base 10 to base 16
