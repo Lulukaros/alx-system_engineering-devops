@@ -30,4 +30,6 @@
 
 101-rot13: // encrypts the text you give it
 
+102-odd: // that prints out every other line
+
 
