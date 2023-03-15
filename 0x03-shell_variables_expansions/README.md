@@ -27,3 +27,7 @@
 13-print_float: // that print a decimal value of a number
 
 100-decimal_to_hexadecimal: // that converts from base 10 to base 16
+
+101-rot13: // encrypts the text you give it
+
+
