@@ -8,4 +8,6 @@
 
 4-global_variables: a script that lists all environmenet variables which are variabls used by the system
 
-5-
+5-local_variables: a script that displays the variables that are only accessible within the scope of the current session or script
+
+6-
