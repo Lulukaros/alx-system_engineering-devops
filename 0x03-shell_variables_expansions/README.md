@@ -4,4 +4,8 @@
 
 2-path: a script that adds the directory named /action to the environment variable PATH as the last directory
 
-3-
+3-paths: a script that counts the number of directories in the env variable PATH
+
+4-global_variables: a script that lists all environmenet variables which are variabls used by the system
+
+5-
