@@ -22,4 +22,6 @@
 
 11-binary_to_decimal: // that converts from binary to decimal
 
+12-combinations: // that prints the combination of all possible combinations of two letters
+
 
