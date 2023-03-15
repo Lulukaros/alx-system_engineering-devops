@@ -10,4 +10,6 @@
 
 5-local_variables: a script that displays the variables that are only accessible within the scope of the current session or script
 
-6-
+6-create_local_variable: // that creates a variable and gives it a value
+
+
